@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinkoyuncu45&label=Profile%20views&color=0e75b6&style=flat" alt="yasinkoyuncu45" /> </p>
 
-- 🔭 I’m currently working on [**Taşıyıcım (WeCarry)** – A logistics web platform connecting carriers with customers](https://tasiyicin.com)
+- 🔭 I’m currently working on [**Taşıyıcın (WeCarry)** – A logistics web platform connecting carriers with customers](https://tasiyicin.com)
 
 - 🌱 I’m currently learning **Entity Framework Core, .NET 8, RESTful APIs, and advanced database design**
 
