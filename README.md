@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Koyuncu</h1>
-<h3 align="center">.NET Developer building scalable logistics and e-commerce systems</h3>
+<h3 align="center">.NET Developer building scalable and production-ready systems</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yasinkoyuncu45&label=Profile%20views&color=0e75b6&style=flat" alt="yasinkoyuncu45" />
